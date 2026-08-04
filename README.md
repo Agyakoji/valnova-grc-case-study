@@ -1,5 +1,11 @@
 # ValNova GRC Case Study
 
+Governance • Risk • Compliance
+
+⭐ Technology Evaluation
+⭐ FinTech
+⭐ Portfolio Project
+
 ## Overview
 
 This repository contains a Governance, Risk & Compliance (GRC) technology evaluation conducted for a fictional fintech company, **ValNova Technologies**.
