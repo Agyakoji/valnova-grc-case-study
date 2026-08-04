@@ -14,6 +14,38 @@ The objective was to assess leading GRC platforms and recommend the most suitabl
 
 ---
 
+## Solution Architecture
+
+The recommended GRC architecture combines Sprinto for compliance automation and OneTrust for privacy and third-party risk management.
+
+```mermaid
+graph TD
+
+A[ValNova Business Operations]
+
+A --> B[Sprinto]
+A --> C[OneTrust]
+
+B --> D[Compliance Automation]
+B --> E[Risk Management]
+B --> F[Audit Evidence]
+
+C --> G[Privacy Management]
+C --> H[Third-Party Risk]
+
+D --> I[Executive Dashboard]
+E --> I
+F --> I
+G --> I
+H --> I
+```
+
+## Why this architecture?
+
+Sprinto provides automated compliance monitoring and audit readiness, while OneTrust strengthens privacy governance and third-party risk management.
+
+---
+
 ## Business Scenario
 
 ValNova is a fictional fintech experiencing rapid growth and expanding into multiple markets.
