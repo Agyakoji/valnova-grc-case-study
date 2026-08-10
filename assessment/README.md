@@ -35,6 +35,6 @@ The report includes the detailed findings, remediation plan, ownership model, an
 
 ## Deliverable
 
-[View the full Compliance Gap Assessment](./ValNova_Compliance_Gap_Assessment.docx)
+[View the full Compliance Gap Assessment](https://github.com/Agyakoji/valnova-grc-case-study/blob/main/assessment/ValNova_Compliance_Gap_Assessment.pdf)
 
 > This is a fictional case study created for educational and portfolio purposes.
